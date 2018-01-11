@@ -1,7 +1,7 @@
 // Universidade Federal Fluminense
 // Departamento de Engenharia Química e de Petróleo
 // Codigo para solução do modelo de`Produção Gas Lift
-// Alunos: Matheus e Tie
+
 // Prof. Lizando Santos
 
 // Fontes: Alessandro Jacoud Peixoto  Diego Pereira-DiasArthur F. S. Xaud Argimiro Resende Secchi
